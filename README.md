@@ -24,5 +24,3 @@ This project uses the Janson dataset to answer 12 SQL business questions.
 - Subqueries  
 - EXISTS, CTEs  
 
-📎 [Presentation](./By_SHIVAM_PATEL_SQL_Project.pptx)  
-📜 [SQL Queries](./SQL_Queries.sql)
